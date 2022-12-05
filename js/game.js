@@ -10,9 +10,9 @@
  * Start Phaser Game.
  */
 const config = {
-    type: Phaser.AUTO,
-    width: 1920,
-    height: 1080,
+   type:Phaser.AUTO,
+   width: 1920,
+   height: 1080,
     // set backround color
     backroundColor: 0x5f6e7a,
 };
