@@ -14,7 +14,7 @@ const config = {
    width: 1920,
    height: 1080,
     // set backround color
-    backroundColor: 0x5f6e7a,
+    backgroundColor: 0x5f6e7a,
 }
 
 const game = new Phaser.Game(config)
