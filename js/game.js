@@ -15,7 +15,7 @@ const config = {
    height: 1080,
     // set backround color
     backroundColor: 0x5f6e7a,
-};
+}
 
-const game = new Phaser.Game(config);
-console.log(game);
+const game = new Phaser.Game(config)
+console.log(game)
